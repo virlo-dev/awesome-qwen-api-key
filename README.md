@@ -52,3 +52,5 @@ Links for developers who need a qwen api key and want to put it to work: the Qwe
 ## Contributing
 
 Open a pull request with a link that appears on the Qwen, Alibaba Cloud or Puter pages above and one line on why it belongs.
+
+_Last reviewed: 2026-09-22_
